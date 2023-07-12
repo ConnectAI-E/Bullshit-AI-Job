@@ -1,13 +1,13 @@
-# Bullshit-AI-Job
+# BullShit Job And His AI Friend
 💩 利用AI来完成对人类没有意义又不得不做的工作
 
-## 理论依据
+## Reference
 > ISBN: 9787521743883
 <div align="left">
   <img src="https://github.com/ConnectAI-E/Bullshit-AI-Job/assets/50035229/333ce464-4d36-4b68-8300-8a988d2f73d6" width="120"/>
 </div>
 
-## 无意义工作列表和AI解决方案
+## List Cases
 > 🤞 欢迎PR
 
 | 💩 无意义工作                     | 🍪 Demo                                             | 🥁 Repo                                        | ⛳️ Key          | Stars                                                        |
