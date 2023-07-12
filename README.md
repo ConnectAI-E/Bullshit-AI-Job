@@ -1,5 +1,7 @@
 # BullShit Job And His AI Friend
-💩 利用AI来完成对人类没有意义又不得不做的工作
+💩 利用AI来完成对人类没有意义又不得不做的工作 
+
+Use AI to do work that doesn't make sense to humans and has to do.
 
 ## Reference
 > ISBN: 9787521743883
@@ -10,7 +12,7 @@
 ## List Cases
 > 🤞 欢迎PR
 
-| 💩 无意义工作                     | 🍪 Demo                                             | 🥁 Repo                                        | ⛳️ Key          | Stars                                                        |
+| 💩 BullShit                     | 🍪 Demo                                             | 🥁 Repo                                        | ⛳️ Key          | Stars                                                        |
 | :------------------------------- | :------------------------------------------------- | :-------------------------------------------- | :------------- | ------------------------------------------------------------ |
 | 日报周报                         | [周报生成器](https://weeklyreport.avemaria.fun/zh) | https://github.com/guaguaguaxia/weekly_report | OpenAI、Prompt | ![GitHub Repo stars](https://flat.badgen.net/github/stars/guaguaguaxia/weekly_report) |
 | 调查问卷                         |                                                    |                                               |                |                                                              |
