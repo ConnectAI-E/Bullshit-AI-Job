@@ -4,7 +4,7 @@
 Use AI to do work that doesn't make sense to humans and has to do.
 
 ## Reference
-> ISBN: 9787521743883
+> ⬇️ 点击阅读
 <div align="left">
   <a href='https://github.com/ConnectAI-E/Bullshit-AI-Job/files/12026799/default.pdf'>
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/50035229/252868047-333ce464-4d36-4b68-8300-8a988d2f73d6.png" width="120"/>
